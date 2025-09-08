@@ -1,5 +1,5 @@
 # SQL Injection Demonstration with Flask and SQLite
-` original project-code-base language: Spanish 🇪🇸`
+`Original project-code-base language: Spanish 🇪🇸`
 
 This project is a basic web application in Flask designed to demonstrate the dangers of SQL injections. **It should not be used in production or with real data**. The application allows a user to log in using credentials stored in an SQLite database. However, the way the SQL query is built in this application makes it vulnerable to SQL injection attacks.
 
